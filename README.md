@@ -1,5 +1,5 @@
 # Phanis_Repo
 This is my first GIT Repository
 <br>
-Author - Phanindra
+Author - Phanindra (Thope)
 Data Enginner
